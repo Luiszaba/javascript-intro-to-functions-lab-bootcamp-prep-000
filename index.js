@@ -16,12 +16,14 @@ function logwhisper(hello) {
 
 function sayHiToGrandma(hello) {
   if (hello.toLowerCase() === hello); {
-    return "I can't hear you!"
+    return "I can't hear you!";
   }
 
   if (hello.toUpperCase() === hello); {
-    return "YES INDEED"
+    return "YES INDEED";
   }
   
-  if 
+  if (hello === "I love you, grandma."); {
+    return "I love you, too.";
+  }
 }
