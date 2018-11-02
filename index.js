@@ -1,4 +1,4 @@
-function shout(string) {
- if ('string'.toUpperCase() === string);
- return 'STRING'
+function shout(hello) {
+ if (hello.toUpperCase() === hello);
+ return hello
 }
