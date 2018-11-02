@@ -1,3 +1,4 @@
 function shout(string) {
- if ('string'.toUpperCase();
+ if ('string'.toUpperCase() === string);
  return 'STRING'
+}
