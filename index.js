@@ -19,7 +19,7 @@ function sayHiToGrandma(hello) {
     return "I can't hear you!";
   }
 
-  if (hello.toUpperCase() === hello); {
+  if (hello.toUpperCase() === HELLO); {
     return "YES INDEED!";
   }
   
